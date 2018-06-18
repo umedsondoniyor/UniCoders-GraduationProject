@@ -20,49 +20,49 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 
 
 
-1.GİRİŞ	3
-1.1	UYGULAMA KONUSU	3
-1.2	UYGULAMA AMACI	3
-1.4	ÖZET	3
-2.	GENEL YAPI	4
-2.1	UYGULAMA MODÜLLERİ	4
-•	İLAN MODÜLÜ	4
-•	KULLANICI MODÜLÜ	4
-•	ADMİN MODÜLÜ	4
-2.2	UYGULAMA KULLANICI-YETKİ YAPISI(USE-CASE)	4
-2.3	GELİŞİM PLANI	5
-2.4	GELİŞİM SÜRECİ AŞAMALARI	5
-3.	   SİSTEM GEREKSİNİMLERİ	7
-3.1	YAZILIM ARAÇLARI	7
-3.2	DONANIM GEREKSİNİMLERİ	7
-4.	VERİTABANI TASARIMI	8
-5.	TASARIM ve KODLAR	9
-5.1	EKRAN TASARIMLARI	9
-5.2	KODLAR	14
+### 1.GİRİŞ	
 
+#### 1.1	UYGULAMA KONUSU	
+#### 1.2	UYGULAMA AMACI	
+#### 1.4	ÖZET	
+### 2.	GENEL YAPI	
+#### 2.1	UYGULAMA MODÜLLERİ
+•	İLAN MODÜLÜ
+•	KULLANICI MODÜLÜ
+•	ADMİN MODÜLÜ
+#### 2.2	UYGULAMA KULLANICI-YETKİ YAPISI(USE-CASE)
+#### 2.3	GELİŞİM PLANI
+#### 2.4	GELİŞİM SÜRECİ AŞAMALARI
+### 3.	   SİSTEM GEREKSİNİMLERİ
+#### 3.1	YAZILIM ARAÇLARI
+#### 3.2	DONANIM GEREKSİNİMLERİ
+### 4.	VERİTABANI TASARIMI
+### 5.	TASARIM ve KODLAR
+#### 5.1	EKRAN TASARIMLARI
+#### 5.2	KODLAR
 
-1.GİRİŞ
-1.1	UYGULAMA KONUSU
+### 1.GİRİŞ
+#### 1.1	UYGULAMA KONUSU
          Kullanıcıların algoritma seviyelerini geliştirme ve gelişimlerini takip etmektir.
-1.2	UYGULAMA AMACI
+#### 1.2	UYGULAMA AMACI
         Temel amaç kullanıcının algoritma oluşturma seviyesini ölçmek ve arttırmaktır, algoritmik yarışma dünyasına giriş yapmalarını sağlamaktır.
-1.3	UYGULAMANIN KULLANICI KİTLESİ
+#### 1.3	UYGULAMANIN KULLANICI KİTLESİ
         Uygulamanın kullanıcı kitlesi özellikle lise ve üniversite öğrencileridir.
-1.4	ÖZET
+#### 1.4	ÖZET
          Kullanıcıların gelişimini takip edebilmesine, düzenli olarak rekabet ortamının eksikliğine çare bulabilecek bir projedir. İnsanları artık en azından temel olarak hangi konuları bilmelerini ve ilerlemelerini gösterebilmektir.
 
 
-2.	GENEL YAPI	
-2.1	UYGULAMA MODÜLLERİ
-•	ANTREMAN MODÜLÜ
-•	YARIŞMA MODÜLÜ
-•	KULLANICI MODÜLÜ
-•	EDİTÖR MODÜLÜ
-2.2	UYGULAMA KULLANICI-YETKİ YAPISI(USE-CASE)
+### 2.	GENEL YAPI	
+#### 2.1	UYGULAMA MODÜLLERİ
+	•	ANTREMAN MODÜLÜ
+	•	YARIŞMA MODÜLÜ
+	•	KULLANICI MODÜLÜ
+	•	EDİTÖR MODÜLÜ
+#### 2.2	UYGULAMA KULLANICI-YETKİ YAPISI(USE-CASE)
 
 https://user-images.githubusercontent.com/8350817/41555056-34a81206-733f-11e8-86f4-1ed85636ba0a.png
 
-2.3	GELİŞİM PLANI
+#### 2.3	GELİŞİM PLANI
 
 Proje Aşamaları ve Önerilen Takvim Bilgisi
 Çalışma	Planlanan Başlangıç Tarihi	Planlanan Bitiş Tarihi
@@ -72,7 +72,7 @@ Gerçekleştirim Çalışması	22 Ocak 2018	29 Mayıs 2018
 Danışman Teslimi (*)	5 Haziran 2018	10 Haziran 2018
 
 
-2.4	GELİŞİM SÜRECİ AŞAMALARI
+#### 2.4	GELİŞİM SÜRECİ AŞAMALARI
 
             Gelişim Süreci aşaması 
 Yapılacak İşler	Hafta
@@ -99,18 +99,18 @@ Gelişim süreci boyunca proje ile ilgili yaptıklarımız (aşama 1):
 
 
 
-3.	SİSTEM GEREKSİNİMLERİ
-3.1	YAZILIM ARAÇLARI
+### 3.	SİSTEM GEREKSİNİMLERİ
+#### 3.1	YAZILIM ARAÇLARI
 1-) Java Server Page JSP
 2-)CSS ve JavaScript
 3-)MySQL 
 4-)Eclipse
 5-)API kullanmak içi JDOODLE id ve şifre.
-3.2	DONANIM GEREKSİNİMLERİ
+#### 3.2	DONANIM GEREKSİNİMLERİ
              1-)Linux işletim sistemi 
              2-)Windows işletim sistemi
              3-) MySQL Server
-4.	VERİTABANI TASARIMI 
+### 4.	VERİTABANI TASARIMI 
  
 
 
@@ -118,8 +118,8 @@ Gelişim süreci boyunca proje ile ilgili yaptıklarımız (aşama 1):
 
 
 
-5.	TASARIM ve KODLAR
-5.1	 EKRAN TASARIMLARI
+### 5.	TASARIM ve KODLAR
+#### 5.1	 EKRAN TASARIMLARI
 Anasayfa
 Anasayfanın üst kısmında en iyi üç yarışmacının profili puanlarıyla beraber gözükecektir. En iyi üç yarışmacıların alt kısmında ise antreman soruları gözükecektir. 
 
