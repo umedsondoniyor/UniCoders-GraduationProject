@@ -41,6 +41,8 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 #### 5.1	EKRAN TASARIMLARI
 #### 5.2	KODLAR
 
+---
+
 ### 1.GİRİŞ
 #### 1.1	UYGULAMA KONUSU
          Kullanıcıların algoritma seviyelerini geliştirme ve gelişimlerini takip etmektir.
@@ -64,12 +66,13 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 
 #### 2.3	GELİŞİM PLANI
 
-Proje Aşamaları ve Önerilen Takvim Bilgisi
-Çalışma	Planlanan Başlangıç Tarihi	Planlanan Bitiş Tarihi
-Analiz Çalışması	10 Kasım 2017	27 Kasım 2017
-Tasarım Çalışması	10 Aralık 2017	27 Aralık 2017
-Gerçekleştirim Çalışması	22 Ocak 2018	29 Mayıs 2018
-Danışman Teslimi (*)	5 Haziran 2018	10 Haziran 2018
+| Proje Aşamaları | Önerilen Takvim Bilgisi   |
+| -------- | -------- |
+| Çalışma |	Planlanan Başlangıç Tarihi |	Planlanan Bitiş Tarihi |
+| Analiz Çalışması |	10 Kasım 2017  |	27 Kasım 2017 |
+| Tasarım Çalışması |	10 Aralık 2017	| 27 Aralık 2017
+| Gerçekleştirim Çalışması |	22 Ocak 2018 |	29 Mayıs 2018 |
+| Danışman Teslimi  |	5 Haziran 2018 |	10 Haziran 2018 |
 
 
 #### 2.4	GELİŞİM SÜRECİ AŞAMALARI
