@@ -1,5 +1,5 @@
 # UniCoders-GraduationProject  :loudspeaker:
-Üniversite oğrenci arkadaşlarımıza geliştirilmektedir algorimik yarışma ortamını(computational programming) kurmayı hedefliyoruz. Algoritmik yarışma siteler en populer olanlardan biri codeforeces.com bide topcoders.com var. Hedefimiz böyle bir ortamı Türkiye  :tr:  oğrencileri için geliştirmek.
+Üniversite oğrenci arkadaşlarımıza geliştirilmektedir algorimik yarışma ortamını(computational programming) kurmayı hedefliyoruz. Algoritmik yarışma siteler en populer olanlardan biri codeforeces.com bide topcoders.com var. Hedefimiz böyle bir ortamı Türkiye  :tr:  öğrencileri için geliştirmek.
 
 ### Algoritma Seviye Geliştirme ve Takip Etme Platformu :clap:
 *Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu*
