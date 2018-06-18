@@ -60,7 +60,7 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 	•	EDİTÖR MODÜLÜ
 #### 2.2	UYGULAMA KULLANICI-YETKİ YAPISI(USE-CASE)
 
-https://user-images.githubusercontent.com/8350817/41555056-34a81206-733f-11e8-86f4-1ed85636ba0a.png
+![1](https://user-images.githubusercontent.com/8350817/41555056-34a81206-733f-11e8-86f4-1ed85636ba0a.png)
 
 #### 2.3	GELİŞİM PLANI
 
@@ -112,72 +112,55 @@ Gelişim süreci boyunca proje ile ilgili yaptıklarımız (aşama 1):
              3-) MySQL Server
 ### 4.	VERİTABANI TASARIMI 
  
-
-
-
-
-
+ ![2](https://user-images.githubusercontent.com/8350817/41555273-ddb674c8-733f-11e8-8a00-6d5587511010.png)
 
 ### 5.	TASARIM ve KODLAR
 #### 5.1	 EKRAN TASARIMLARI
 Anasayfa
 Anasayfanın üst kısmında en iyi üç yarışmacının profili puanlarıyla beraber gözükecektir. En iyi üç yarışmacıların alt kısmında ise antreman soruları gözükecektir. 
 
- 
-
-
-
-
-
-
-
-
+ ![3](https://user-images.githubusercontent.com/8350817/41555274-dde5962c-733f-11e8-89ba-f15836426cde.png)
 
 Herhangi bir sorunun üzerine tıklandığında soru çözme ekranına yönlendirilmektedir.
  
-
-
+![4](https://user-images.githubusercontent.com/8350817/41555276-de31013e-733f-11e8-8a65-302a2fab3672.png)
 
 Antreman
 Antreman sayfasında, veritabınındaki tüm sorular listelenmektedir. Her çözülen soru için puan verilmektedir. Sorunun yapısı: Başlık, açıklama, soruya girdiler ve çıktılar, sonuç ve kimin tarafından paylaşıldığı ekranda gözükmektedir.
 
- 
+ ![5](https://user-images.githubusercontent.com/8350817/41555277-de56e71e-733f-11e8-9767-e63ec0a26f03.png)
 
 Yarışmalar
 Yarışmalar sayfasında, tüm yarışmalar sayfada gözükmektedir. Yarışmalar kurumlar tarafından düzenlenmektedir ve yönetici yarışmanın bilgilerini doldurarak paylaşılmaktadır.
 
- 
+ ![6](https://user-images.githubusercontent.com/8350817/41555265-dc0a3dbc-733f-11e8-9dfb-bbb513da7ad8.png)
 
 Top 100
 Top 100 sayfasında en iyi 100 kullanıcı listelenmektedir. Kullanıcıların puanlarına göre listelenmektedir. Her kullanıcının kullanıcı adı, isim, soyisim,mail adres ve puan olarak gözterilmektedir. Eğer üye olmayan biri kullanıcıların listesine göz atmak isterlerse mail kullanıcıların mail adresleri gözükmeyecektir.
 
- 
+![7](https://user-images.githubusercontent.com/8350817/41555266-dc3328f8-733f-11e8-8306-2b2468fb340a.png)
 
-
-
- 
+![8](https://user-images.githubusercontent.com/8350817/41555267-dc5a1c88-733f-11e8-9d71-0b009a6673aa.png) 
 
 Hakkımızda
 Hakkımızda sayfasında, unicoders olarak yapılan platformda neler yapılmakta, ne amaçla geliştirilmiştir açıklanmıştır. Aurıca algoritmik yarışma dünyasına ilk adımlar nasıl atılır ve yarışmalara nasıl hazırlanmak gerektiğini kısa bir bilgi verilmektedir.
 
+![9](https://user-images.githubusercontent.com/8350817/41555268-dc852130-733f-11e8-9e0d-9a0f01bb1a66.png)
  
-
-
-
 
 Kayıt
 Kayıt sayfasında kayıt olmak isteyenler kolay bir şekilde isim, soyisim, kullanıcı adı, şifre, okul adı, cinsiyet, doğum tarihi ve mail adreslerini girerek hesap açabilmektedirler.
 
- 
+ ![10](https://user-images.githubusercontent.com/8350817/41555269-dcabac38-733f-11e8-9a1f-1bcb2b415a0d.png)
 
 Giriş
 Giriş sayfasında bir editör giriş ve bir kullanıcı sayfasın iki küçük ekranda gözükmektedir. Yönetici girişi için ayrı bir sayfa açılmıştır.
  
- 
+ ![11](https://user-images.githubusercontent.com/8350817/41555270-dd0a6afc-733f-11e8-87ca-a39624ba78b8.png)
+
+![12](https://user-images.githubusercontent.com/8350817/41555271-dd484548-733f-11e8-991b-2ddc7e03259b.png)
 
 Profil
 Kullanıcılar profil bilgilerini girdiklerinden sonra yanlış bilgi varsa eğer bilgierini güncelleyebilmektedir. Profil sayfasından kullanıcılar editöre sorular gönerebilmektedirler. Önerilen soruları listeleyebilmektedirler. Çözülen sorularını dahil görebilmektedirler. Çıkış yap linkine tıklayarakda çıkabilmektedirler.
 
- 
-
-
+![13](https://user-images.githubusercontent.com/8350817/41555272-dd73540e-733f-11e8-9643-ffa016af0ebf.png) 
