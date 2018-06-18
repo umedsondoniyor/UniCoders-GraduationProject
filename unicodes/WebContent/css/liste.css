@@ -1,0 +1,71 @@
+.hide{
+  display: none;
+}
+.container-fluid {
+  padding:30px;
+}
+#container {
+  padding: 50px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+#container .buttons {
+  text-align: right;
+  padding-right: 60px;
+}
+
+#container .buttons button {
+  border: 0;
+  background-color: #dddddd;
+  border-radius: 5px;
+  
+}
+
+#container span.glyphicon {
+  font-size: 2em;
+  color: #FF4444;
+  
+}
+
+#container ul, table{ 
+  list-style: none; 
+  margin-top: 50px;
+}
+
+#container .buttons { 
+  margin-bottom: 20px; 
+}
+
+#container .table-hover img { 
+  height: 50px; 
+}
+
+#container .grid li { 
+  float: left; 
+  width: 33%; 
+  height: 250px;  
+  text-align: center;  
+  vertical-align: middle;
+}
+
+table .img-circle {
+  height: 30px;
+  width: 30px;
+  background-color: #ff4444;
+}
+
+ul .img-circle {
+  width: 150px;
+  height: 150px;
+  background-color: #ff4444;
+  text-align: center; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  margin-top: 20px;
+}
+
+h3{
+  display: block;
+}
