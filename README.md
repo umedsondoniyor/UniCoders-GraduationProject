@@ -1,10 +1,10 @@
 # UniCoders-GraduationProject
-Üniversite oğrenci arkadaşlarıma geliştirlecek algorimik yarışma ortamını(computational programming) kurmayı hedefliyorum. Algoritmik yarışma siteler en populer olanlardan biri codeforeces.com bide topcoders.com var. Hedefim böyle bir ortamı Türkiye oğrencileri için geliştirmek.
+Üniversite oğrenci arkadaşlarıma geliştirlecek algorimik yarışma ortamını(computational programming) kurmayı hedefliyorum. Algoritmik yarışma siteler en populer olanlardan biri codeforeces.com bide topcoders.com var. Hedefim böyle bir ortamı Türkiye  :tr:  oğrencileri için geliştirmek.
 
 ### Algoritma Seviye Geliştirme ve Takip Etme Platformu
 *Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu*
 
-| :+1: Umedzhon Izbasarov |  :+1: Zübeyir Eser | 
+|   :mortar_board: Umedzhon Izbasarov  |  Zübeyr Eser  :mortar_board: | 
 | ------- | ------- |
 | umedzhonizbasarov@gmail.com | eserzubeyr@gmail.com |
 
@@ -40,21 +40,20 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 #### 3.1	YAZILIM ARAÇLARI
 #### 3.2	DONANIM GEREKSİNİMLERİ
 ### 4.	VERİTABANI TASARIMI
-### 5.	TASARIM ve KODLAR
+### 5.	TASARIM 
 #### 5.1	EKRAN TASARIMLARI
-#### 5.2	KODLAR
 
 ---
 
 ### 1.GİRİŞ
 #### 1.1	UYGULAMA KONUSU
-         Kullanıcıların algoritma seviyelerini geliştirme ve gelişimlerini takip etmektir.
+   Kullanıcıların algoritma seviyelerini geliştirme ve gelişimlerini takip etmektir.
 #### 1.2	UYGULAMA AMACI
-        Temel amaç kullanıcının algoritma oluşturma seviyesini ölçmek ve arttırmaktır, algoritmik yarışma dünyasına giriş yapmalarını sağlamaktır.
+   Temel amaç kullanıcının algoritma oluşturma seviyesini ölçmek ve arttırmaktır, algoritmik yarışma dünyasına giriş yapmalarını sağlamaktır.
 #### 1.3	UYGULAMANIN KULLANICI KİTLESİ
-        Uygulamanın kullanıcı kitlesi özellikle lise ve üniversite öğrencileridir.
+   Uygulamanın kullanıcı kitlesi özellikle lise ve üniversite öğrencileridir.
 #### 1.4	ÖZET
-         Kullanıcıların gelişimini takip edebilmesine, düzenli olarak rekabet ortamının eksikliğine çare bulabilecek bir projedir. İnsanları artık en azından temel olarak hangi konuları bilmelerini ve ilerlemelerini gösterebilmektir.
+   Kullanıcıların gelişimini takip edebilmesine, düzenli olarak rekabet ortamının eksikliğine çare bulabilecek bir projedir. İnsanları artık en azından temel olarak hangi konuları bilmelerini ve ilerlemelerini gösterebilmektir.
 
 
 ### 2.	GENEL YAPI	
