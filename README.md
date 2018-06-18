@@ -4,7 +4,7 @@
 ### Algoritma Seviye Geliştirme ve Takip Etme Platformu
 *Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu*
 
-|   :mortar_board: Umedzhon Izbasarov  :sunglasses: | :v: Zübeyr Eser  :mortar_board: | 
+|   :mortar_board: Umedzhon Izbasarov  :bowtie: | :neckbeard: Zübeyr Eser  :mortar_board: | 
 | ------- | ------- |
 | umedzhonizbasarov@gmail.com | eserzubeyr@gmail.com |
 
