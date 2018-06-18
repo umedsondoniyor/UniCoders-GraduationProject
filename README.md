@@ -2,11 +2,14 @@
 Üniversite oğrenci arkadaşlarıma geliştirlecek algorimik yarışma ortamını(computational programming) kurmayı hedefliyorum. Algoritmik yarışma siteler en populer olanlardan biri codeforeces.com bide topcoders.com var. Hedefim böyle bir ortamı Türkiye oğrencileri için geliştirmek.
 
 ### Algoritma Seviye Geliştirme ve Takip Etme Platformu
+*Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu*
 
-Umedzhon Izbasarov1, Zübeyir Eser2
-1 Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu
-2 Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu
-umedzhonizbasarov@gmail.com, eserzubeyr@gmail.com
+| :+1: Umedzhon Izbasarov |  :+1: Zübeyir Eser | 
+| ------- | ------- |
+| umedzhonizbasarov@gmail.com | eserzubeyr@gmail.com |
+
+
+
 
 Özet: Bu çalışma ile yazilima ilgisi olanlarin, özellikle lise yada üniversite öğrencilerinin algoritma seviyesini ölçme ve algoritmik yarışma dünyasına açılma. En önemli nokta olarak algoritmik seviyesini takip edebilmeleri olacaktır. Bilgisayar muhedisliği ve yazilim muhendisliği oğrencilerin Türkiye’de algoritma’da nerede olduklarini takip edememe sorunu oldugundan dolayi bu fikire gelinmistir. Bu platform sayesinde yeni mezün olacak öğrencilerin boş kalmadan hemen iş sahibi olabilmeleri için ve yazılım şirketlerinde istedikleri kriterde çalışanına sahip olabilmelerine olanak sunar. Hesabı olan herhangi biri sanal yarışma hazırlayabilir belirli kurallara uyarak. Herhangi bir kurumda aynı zamanda yarışma hazırlayabilir kendi şirketine yetenekli öğrencileri seçebilmeleri için. Yeni hesap açan kullanıcalar için bu platformu nasıl kullanılcağına dair manual(kullanım klavuzu gibi) olacaktır. 
 
