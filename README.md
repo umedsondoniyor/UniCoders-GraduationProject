@@ -60,6 +60,7 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 •	EDİTÖR MODÜLÜ
 2.2	UYGULAMA KULLANICI-YETKİ YAPISI(USE-CASE)
 
+https://user-images.githubusercontent.com/8350817/41555056-34a81206-733f-11e8-86f4-1ed85636ba0a.png
 
 2.3	GELİŞİM PLANI
 
