@@ -3,13 +3,13 @@
 Üniversite öğrencisi arkadaşlarımız için geliştirilmekte olan algoritmik yarışma ortamını(computational programming) kurmayı hedefliyoruz. Algoritmik yarışma siteleri arasındaki en populer sitelerden biri codeforeces.com bide topcoders.com var. Hedefimiz buna benzer bir ortamı Türkiye'de :tr: Türk öğrencileri için geliştirmek.
 
 ### Algoritma Seviye Geliştirme ve Takip Etme Platformu :clap:
-*Kastamonu Üniversitesi, Mimarlık Mühendislik Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu*
+*Kastamonu Üniversitesi, Mühendislik Mimarlık Fakültesi-Bilgisayar Mühendüsliği bölümü, Kastamonu*
 
 |   :mortar_board: Umedzhon Izbasarov  :bowtie: | :neckbeard: Zübeyr Eser  :mortar_board: | 
 | ------- | ------- |
 | umedzhonizbasarov@gmail.com | eserzubeyr@gmail.com |
 
-Özet: Bu çalışma ile yazilima ilgisi olanlarin, özellikle lise yada üniversite öğrencilerinin algoritma seviyesini ölçme ve algoritmik yarışma dünyasına açılma hedeflenmiştir. En önemli nokta olarak algoritmik seviyelerini takip edebilmeleri olacaktır. Bilgisayar muhedisliği veya yazilim muhendisliği oğrencilerin Türkiye’de algoritmik düşünebilme konusunda nerede olduklarini takip edememe sorunu oldugundan dolayi bu fikir düşünülmüştür. Bu platform sayesinde yeni mezün olacak öğrencilerin boş kalmadan hemen iş sahibi olabilmeleri için ve yazılım şirketlerinde istedikleri kriterde çalışanına sahip olabilmelerine olanak sağlar. Hesabı olan herhangi bir üye kurallara bağlı kalmak şartuyla sanal yarışma hazırlayabilir. Aynı şekilde bir kurum da kendi şirketine problemleri çözebilen, algoritmik düşünübilen genç yetenekleri kendi bünyesine alabilmek için yarışma hazırlayabilir. :clap:
+Özet: Bu çalışma ile yazilima ilgisi olanlarin, özellikle lise yada üniversite öğrencilerinin algoritma seviyesini ölçme ve algoritmik yarışma dünyasına açılma hedeflenmiştir. En önemli nokta olarak algoritmik seviyelerini takip edebilmeleri olacaktır. Bilgisayar muhedisliği veya yazilim muhendisliği oğrencilerin Türkiye’de algoritmik düşünebilme konusunda nerede olduklarini takip edememe sorunu oldugundan dolayi bu fikir düşünülmüştür. Bu platform sayesinde yeni mezün olacak öğrencilerin boş kalmadan hemen iş sahibi olabilmeleri için ve yazılım şirketlerinde istedikleri kriterde çalışanına sahip olabilmelerine olanak sağlar. Hesabı olan herhangi bir üye kurallara bağlı kalmak şartıyla sanal yarışma hazırlayabilir. Aynı şekilde bir kurum da kendi şirketine problemleri çözebilen, algoritmik düşünübilen genç yetenekleri kendi bünyesine alabilmek için yarışma hazırlayabilir. :clap:
 
 Anahtar Sözcükler: Algoritma, Programlamada algoritma nedir, Algoritma 101, Algoritma seviye,  Algoritmik düşünme, Algoritma yarışmaları, Algoritma antreman, Yazılım, 
 
@@ -36,7 +36,6 @@ In this study, it is aimed to measure the algorithm level of those who are inter
 #### 2.4	GELİŞİM SÜRECİ AŞAMALARI
 ### 3.	   SİSTEM GEREKSİNİMLERİ
 #### 3.1	YAZILIM ARAÇLARI
-#### 3.2	DONANIM GEREKSİNİMLERİ
 ### 4.	VERİTABANI TASARIMI
 ### 5.	TASARIM 
 #### 5.1	EKRAN TASARIMLARI
@@ -92,10 +91,7 @@ Gelişim süreci boyunca proje ile ilgili yaptıklarımız (aşama 1):
 3-)MySQL 
 4-)Eclipse
 5-)API kullanmak içi JDOODLE id ve şifre.
-#### 3.2	DONANIM GEREKSİNİMLERİ
-             1-)Linux işletim sistemi 
-             2-)Windows işletim sistemi
-             3-) MySQL Server
+
 ### 4.	VERİTABANI TASARIMI 
  
  ![2](https://user-images.githubusercontent.com/8350817/41555273-ddb674c8-733f-11e8-8a00-6d5587511010.png)
